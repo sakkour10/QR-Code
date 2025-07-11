@@ -1,44 +1,44 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 body {
-    font-size: 15px;
-    background-color: hsl(212, 45%, 89%);
+  font-size: 15px;
+  background-color: hsl(212, 45%, 89%);
 }
 
 .layout {
-    width: 295px;
-    height: fit-content;
-    padding: 15px;
-    background: white;
-    font-family: "Outfit", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    border-radius: 5%;
-    text-align: center;
-} 
+  width: 295px;
+  height: fit-content;
+  padding: 15px;
+  background: white;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5%;
+  text-align: center;
+}
 .layout img {
-width: 100%;
-border-radius: 5%;
+  width: 100%;
+  border-radius: 5%;
 }
 .layout .one {
-    color: hsl(218, 44%, 22%);
-    font-weight: 700;
-    font-size: 21px;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 21px;
 }
 .layout .two {
-    color:hsl(216, 15%, 48%);
-    font-weight: 400;
-    padding: 0 10px;
+  color: hsl(216, 15%, 48%);
+  font-weight: 400;
+  padding: 0 10px;
 }
 .attribution {
-    font-size: 20px; text-align:right; 
-
+  font-size: 20px;
+  text-align: right;
 }
 .attribution a {
-    color: hsl(228, 45%, 44%); 
+  color: hsl(228, 45%, 44%);
 }
